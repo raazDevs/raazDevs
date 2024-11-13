@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI Trip Planner**
 
-- 🌱 I’m currently learning **Next JS, DSA**
+- 🌱 I’m currently learning **Next JS, DSA, AI Integration(Gemini, ChatGPT)**
 
 - 💬 Ask me about **react, next js**
 
